@@ -11,9 +11,10 @@
 Разворачивание проекта:
 
 Клонировать репозиторий и перейти в его папку в командной строке:
-
+'''
 git clone https://github.com/coherentus/api_yatube
 cd api_yatube
+'''
 Cоздать и активировать виртуальное окружение:
 
 python3 -m venv venv
