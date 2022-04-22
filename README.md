@@ -12,7 +12,7 @@
 
 Клонировать репозиторий и перейти в его папку в командной строке:
 ```
-git clone https://github.com/coherentus/api_yatube
+git clone https://github.com/Lets-dancing/api_yatube/
 cd api_yatube
 ```
 Cоздать и активировать виртуальное окружение:
